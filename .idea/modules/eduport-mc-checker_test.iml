@@ -35,13 +35,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="eduport-mc-checker_main" />
-    <orderEntry type="library" name="Gradle: dk.edutor:eduport:0.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: dk.edutor:eduport:0.9.2" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.40" level="project" />
     <orderEntry type="library" name="Gradle: io.kotlintest:kotlintest-runner-junit5:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.40" level="project" />
     <orderEntry type="library" name="Gradle: io.kotlintest:kotlintest-core:3.0.0" level="project" />
     <orderEntry type="library" name="Gradle: io.kotlintest:kotlintest-assertions:3.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.30" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.40" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.40" level="project" />
     <orderEntry type="library" name="Gradle: org.reflections:reflections:0.9.11" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-engine:1.1.0" level="project" />
